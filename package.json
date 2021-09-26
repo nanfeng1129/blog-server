@@ -1,0 +1,16 @@
+{
+  "name": "blog-server",
+  "version": "1.0.0",
+  "description": "mm-blog's server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Ryan",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^2.13.3",
+    "koa-router": "^10.1.1"
+  }
+}
